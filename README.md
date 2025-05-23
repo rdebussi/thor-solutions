@@ -1,4 +1,4 @@
-# 🔧 ThorSystem - Sistema de Suporte Técnico v4.0
+# ⚡ ThorSystem - Sistema de Suporte Técnico v4.0
 
 > Desenvolvido por **Rafael Debussi**
 
@@ -6,7 +6,7 @@ ThorSystem é uma aplicação em C++ para automação de tarefas comuns de supor
 
 ---
 
-## ✨ Funcionalidades
+## 🛠️ Funcionalidades
 
 - 📠 Adicionar impressora de rede automaticamente.
 - 🔧 Corrigir erros comuns como `0x00000709` e `0x0000011b`.
@@ -42,3 +42,9 @@ ThorSystem é uma aplicação em C++ para automação de tarefas comuns de supor
 
    ```bash
    g++ -o ThorSystem.exe main.cpp
+
+---
+
+##👨‍💻 Autor
+- Desenvolvido por Rafael Debussi
+- 💼 Técnico de Suporte | 💻 Desenvolvedor C++
