@@ -45,6 +45,6 @@ ThorSystem é uma aplicação em C++ para automação de tarefas comuns de supor
 
 ---
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 - Desenvolvido por Rafael Debussi
 - 💼 Técnico de Suporte | 💻 Desenvolvedor C++
